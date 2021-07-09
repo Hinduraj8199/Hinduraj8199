@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !!
 Hi , I'm <b>Hinduraj Kadam</b> a Full Stack Web-Developer (MERN Stack) :wave:
@@ -18,7 +17,6 @@ Hi , I'm <b>Hinduraj Kadam</b> a Full Stack Web-Developer (MERN Stack) :wave:
     <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg">&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg">&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">&nbsp;&nbsp;
