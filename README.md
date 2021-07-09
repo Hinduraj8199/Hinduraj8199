@@ -25,5 +25,6 @@ Hi , I'm <b>Hinduraj Kadam</b> a Full Stack Web-Developer (MERN Stack) :wave:
 
 ![Hinduraj's github stats](https://github-readme-stats.vercel.app/api?username=Hinduraj8199&show_icons=true&theme=dark)
 <br/>
- <b> Reach out to me on </b> :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/hinduraj-kadam/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:hindurajkkadam123@gmail.com)
+## Reach out to me on :point_down:
+- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/hinduraj-kadam/)
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:hindurajkkadam123@gmail.com)
