@@ -13,7 +13,7 @@ Hi , I'm <b>Hinduraj Kadam</b> a Full Stack Web-Developer (MERN Stack) :wave:
 
 ## Languages & Tech
 <p align='center'>
-    <img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">&nbsp;&nbsp;
+    <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">&nbsp;&nbsp;
     <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">&nbsp;&nbsp;
@@ -23,6 +23,7 @@ Hi , I'm <b>Hinduraj Kadam</b> a Full Stack Web-Developer (MERN Stack) :wave:
     <img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
 </p>
 
-![Hinduraj's github stats](https://github-readme-stats.vercel.app/api?username=hinduraj8199&show_icons=true&theme=dark)
- Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/hinduraj-kadam/)
+![Hinduraj's github stats](https://github-readme-stats.vercel.app/api?username=Hinduraj8199&show_icons=true&theme=dark)
+<br/>
+ <b> Reach out to me on </b> :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/hinduraj-kadam/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:hindurajkkadam123@gmail.com)
