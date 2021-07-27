@@ -23,7 +23,6 @@ Hi , I'm <b>Hinduraj Kadam</b> a Full Stack Web-Developer (MERN Stack) :wave:
     <img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
 </p>
 
-![Hinduraj's github stats](https://github-readme-stats.vercel.app/api?username=Hinduraj8199&show_icons=true&theme=dark)
 <br/>
 ## Reach out to me on :point_down:
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/hinduraj-kadam/)
