@@ -6,9 +6,9 @@ Hi , I'm <b>Hinduraj Kadam</b> a Full Stack Web-Developer (MERN Stack) :wave:
 </p>
 
 ## About me
-- :smile: I'm a 22 y.o. <b>Mechatronics Engineer</b> from Mumbai University.
-- :seedling: I’m currently learning <i>Full Stack Web Development</i> at Masai School.
--  I'm passionate Web Developer who love to code, solve real life problems & build Websites.
+-  I'm a 22 y.o. <b>Mechatronics Engineer</b> from Mumbai University. :smile:
+-  I’m currently learning <i>Full Stack Web Development</i> at Masai School.
+-  I am a passionate Web Developer who loves to code, solve real life problems & build Websites.
 
 
 ## Languages & Tech
@@ -23,7 +23,7 @@ Hi , I'm <b>Hinduraj Kadam</b> a Full Stack Web-Developer (MERN Stack) :wave:
     <img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
 </p>
 
-<br/>
+
 ## Reach out to me on :point_down:
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/hinduraj-kadam/)
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:hindurajkkadam123@gmail.com)
